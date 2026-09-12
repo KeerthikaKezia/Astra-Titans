@@ -1,0 +1,6 @@
+{
+  "name": "NER DisasterGuard – AI-Based Early Warning & Landslide Risk Monitoring System",
+  "description": "AI-based disaster early warning and landslide risk monitoring platform for the North Eastern Region of India.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
